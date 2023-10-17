@@ -1,4 +1,4 @@
-package com.fabricio.resource;
+ package com.fabricio.resource;
 
 import com.fabricio.domain.Produto;
 import com.fabricio.domain.dto.ProdutoDTO;
